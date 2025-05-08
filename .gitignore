@@ -1,0 +1,7 @@
+# Ignore les modèles
+Models/
+
+# Ignorer les fichiers temporaires
+*.log
+*.bak
+*.swp
